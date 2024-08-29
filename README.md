@@ -1,7 +1,7 @@
 # Laravel FCM Notification
 Laravel FCM (Firebase Cloud Messaging) Notification Channel
 
-[![GitHub tag](https://badgen.net/github/tag/appstechnologies/laravel-fcm-notification)](https://github.com/appstechnologies/laravel-fcm-notification/releases)
+[![GitHub tag](https://badgen.net/github/tag/Apps-Technologies/laravel-fcm-notification)](https://github.com/Apps-Technologies/laravel-fcm-notification/releases)
 [![Packagist](https://badgen.net/packagist/v/appstechnologies/laravel-fcm-notification)](https://packagist.org/packages/appstechnologies/laravel-fcm-notification)
 [![Downloads](https://badgen.net/packagist/dt/appstechnologies/laravel-fcm-notification)](https://packagist.org/packages/appstechnologies/laravel-fcm-notification)
 [![Build Status](https://travis-ci.com/appstechnologies/laravel-fcm-notification.svg)](https://travis-ci.com/appstechnologies/laravel-fcm-notification)
